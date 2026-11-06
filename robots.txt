@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maj1023.github.io/KC-Browser-Website/sitemap.xml
